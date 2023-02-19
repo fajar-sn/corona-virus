@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Corona Virus</string>
+    <string name="on_boarding_body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat felis sit eget euismod et vulputate. Vitae lacus, maecenas odio ac.</string>
+    <string name="on_boarding_heading">TextView</string>
+    <string name="corona">Corona</string>
+    <string name="virus">Virus</string>
 </resources>
