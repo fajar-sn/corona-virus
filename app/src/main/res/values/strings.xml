@@ -4,4 +4,9 @@
     <string name="on_boarding_heading">TextView</string>
     <string name="corona">Corona</string>
     <string name="virus">Virus</string>
+    <string name="on_boarding_title_1">Wear a Mask</string>
+    <string name="on_boarding_title_2">Hand Wash &amp; Sanitize</string>
+    <string name="on_boarding_title_3">Physical Distancing</string>
+    <string name="next">Next</string>
+    <string name="login_with_gmail">Login with Gmail</string>
 </resources>
